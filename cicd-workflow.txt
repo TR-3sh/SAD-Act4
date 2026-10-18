@@ -1,6 +1,9 @@
 CI/CD Workflow
 
-A CI/CD workflow is a series of automated steps used to build, test, and deliver software. It usually begins when a developer commits code to a repository. The system then builds the application, runs automated tests, and prepares the software for release or deployment. This process helps teams detect errors early and deliver updates more efficiently.
+A CI/CD workflow is a series of automated steps used to build, test, and deliver software.
+It usually begins when a developer commits code to a repository. The system then builds the application, runs automated tests,
+and prepares the software for release or deployment.
+This process helps teams detect errors early and deliver updates more efficiently.
 
 Status: ACCOMPLISHED
 Assigned to: Mateo, James
