@@ -1,0 +1,8 @@
+Advantages of CI/CD
+
+CI/CD helps development teams release software faster and more reliably.
+Automated building and testing can detect errors early, reduce repetitive manual work, improve software quality, 
+and make updates easier to deliver.
+
+Status: ACCOMPLISHED
+Assigned to: Mateo, James
