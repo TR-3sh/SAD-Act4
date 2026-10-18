@@ -1,0 +1,8 @@
+Challenges of CI/CD
+
+CI/CD can be challenging to implement because it may require initial setup costs, technical knowledge,
+and proper configuration. Automated tests must also be reliable, and security risks need to be managed.
+Teams must maintain their pipelines to ensure that software can be built, tested, and deployed smoothly.
+
+Status: ACCOMPLISHED
+Assigned to: Mateo, James
